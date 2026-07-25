@@ -78,7 +78,7 @@ The transcriptions below cover select sections of studio recordings and are inte
 
 ### Half-time shuffles
 
-The half-time shuffles below are interpretations of well-known shuffles played by John Bonham, Bernard Purdie, and Jeff Porcaro. Practice these grooves as written, but also experiment with moving the leading hand from the hi-hat to the ride while incorporating different hi-hat-foot patterns.
+The half-time shuffles below are interpretations of well-known shuffles played by John Bonham, Bernard Purdie, Jeff Porcaro, and Jason McGerr. Practice these grooves as written, but also experiment with moving the leading hand from the hi-hat to the ride while incorporating different hi-hat-foot patterns.
 
 <table align="center" width="100%">
   <thead>
@@ -114,6 +114,14 @@ The half-time shuffles below are interpretations of well-known shuffles played b
       </td>
       <td align="center">
         <strong>Toto - 'Rosanna'</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="figures/half-time_shuffles/4.svg"/>
+      </td>
+      <td align="center">
+        <strong>Death&nbsp;Cab&nbsp;For&nbsp;Cutie - 'Grapevine&nbsp;Fires'</strong>
       </td>
     </tr>
   </tbody>
