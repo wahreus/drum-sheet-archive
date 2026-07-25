@@ -70,6 +70,7 @@ A library of sheet music and practice material for drums. It currently includes 
 The transcriptions below cover select sections of studio recordings and are intended as interpretations and starting points for further exploration rather than note-for-note transcriptions.
 
 &emsp;[Led Zeppelin | 'Custard Pie'](transcriptions/led_zeppelin-custard_pie/README.md)<br>
+&emsp;[Led Zeppelin | 'Misty Mountain Hop'](transcriptions/led_zeppelin-misty_mountain_hop/README.md)<br>
 &emsp;[Led Zeppelin | 'No Quarter'](transcriptions/led_zeppelin-no_quarter/README.md)<br>
 &emsp;[Led Zeppelin | 'Whole Lotta Love'](transcriptions/led_zeppelin-whole_lotta_love/README.md)<br>
 <br>
