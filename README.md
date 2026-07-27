@@ -7,7 +7,6 @@ A library of sheet music and practice material for drums. It currently includes 
 <p align="center">
   <img src="figures/legend.svg" width="85%"/>
 </p>
-<p align="center"><em>Notes are numbered from left to right in the above image.</em></p>
 <table align="center">
   <thead>
     <tr>
