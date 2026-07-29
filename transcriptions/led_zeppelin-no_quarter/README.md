@@ -27,9 +27,11 @@
 </p>
 <br>
 <br>
+<br>
 <p align="center">
   <img src="grooves2.svg" width="85%"/>
 </p>
+<br>
 <br>
 <br>
 <p align="center">

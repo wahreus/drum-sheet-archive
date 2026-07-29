@@ -27,9 +27,11 @@
 </p>
 <br>
 <br>
+<br>
 <p align="center">
   <img src="grooves2.svg" width="85%"/>
 </p>
+<br>
 <br>
 <br>
 <p align="center">
@@ -37,9 +39,11 @@
 </p>
 <br>
 <br>
+<br>
 <p align="center">
   <img src="grooves1.svg" width="85%"/>
 </p>
+<br>
 <br>
 <br>
 <p align="center">
@@ -50,9 +54,11 @@
 </p>
 <br>
 <br>
+<br>
 <p align="center">
   <img src="fills2.svg" width="85%"/>
 </p>
+<br>
 <br>
 <br>
 <p align="center">
