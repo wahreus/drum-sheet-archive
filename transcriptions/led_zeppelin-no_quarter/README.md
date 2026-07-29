@@ -24,6 +24,14 @@
 </p>
 <p align="center">
   <img src="grooves1.svg" width="85%"/>
+</p>
+<br>
+<br>
+<p align="center">
   <img src="grooves2.svg" width="85%"/>
+</p>
+<br>
+<br>
+<p align="center">
   <img src="grooves3.svg" width="85%"/>
 </p>

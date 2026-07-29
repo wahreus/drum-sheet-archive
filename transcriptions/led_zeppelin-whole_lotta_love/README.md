@@ -24,13 +24,27 @@
 </p>
 <p align="center">
   <img src="grooves1.svg" width="85%"/>
+</p>
+<br>
+<br>
+<p align="center">
   <img src="grooves2.svg" width="85%"/>
 </p>
+<br>
+<br>
 <p align="center">
   <img src="../fills_header.svg" width="100%"/>
 </p>
 <p align="center">
   <img src="fills1.svg" width="85%"/>
+</p>
+<br>
+<br>
+<p align="center">
   <img src="fills2.svg" width="85%"/>
+</p>
+<br>
+<br>
+<p align="center">
   <img src="fills3.svg" width="85%"/>
 </p>
