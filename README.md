@@ -1,6 +1,6 @@
-# 🥁 Drum Sheet Library
+# 🥁 Drum Sheet Archive
 
-A library of sheet music and practice material for drums. It currently includes transcriptions of recorded music and a section on shuffle grooves, with more sections and material to be added as the library grows.
+An archive of sheet music and practice material for drums. It currently includes transcriptions of recorded music and a section on shuffle grooves, with more sections and material to be added as the archive expands.
 
 ## Note legend
 
