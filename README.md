@@ -68,6 +68,7 @@ A library of sheet music and practice material for drums. It currently includes 
 
 The transcriptions below cover select sections of studio recordings and are intended as interpretations and starting points for further exploration rather than note-for-note transcriptions.
 
+&emsp;[Jimi Hendrix | 'Manic Depression'](transcriptions/jimi_hendrix-manic_depression/README.md)<br>
 &emsp;[Led Zeppelin | 'Custard Pie'](transcriptions/led_zeppelin-custard_pie/README.md)<br>
 &emsp;[Led Zeppelin | 'Good Times Bad Times'](transcriptions/led_zeppelin-good_times_bad_times/README.md)<br>
 &emsp;[Led Zeppelin | 'Misty Mountain Hop'](transcriptions/led_zeppelin-misty_mountain_hop/README.md)<br>
