@@ -132,7 +132,7 @@ The half-time shuffles below are interpretations of well-known shuffles played b
 
 ### Texas shuffles
 
-Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2 and 4, with all other notes played as ghost notes. The accompanying kick, ride, and hi-hat patterns may vary. Practice transitioning seamlessly between any two patterns in the table below, which combines common kick and hi-hat-foot patterns.
+Here, a Texas shuffle is defined by a snare pattern with accents on beats 2 and 4 and ghost notes on all other notes, together with a quarter-note ride pattern. The accompanying kick and hi-hat patterns may vary. Practice transitioning seamlessly between any two patterns in the table below, which combines common kick and hi-hat-foot patterns.
 
 <table align="center">
   <thead>
